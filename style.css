@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+    width:80%;
+    margin: 10px 260px 10px 260px;
+}
+header{
+    background-image: url('../darbas21d/CSS/img/space.avif');
+    color: white;
+    height: 300px;
+}
+header p{
+    margin: 20px 250px;
+    text-align: end;
+}
+main {
+    width:70%;
+    padding: 20px;
+    margin-left:auto;
+    margin-right:auto;
+}
+h1, h2, p {
+    text-align: center;
+}
+button {
+    display:inline-block;
+    border-color:blue;
+    color: blue;
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: blue;
+}
+.caption {
+    margin: 10px 100px 10px 100px;
+}
+img{
+    display:inline=block;
+    margin: 10px 10px 10px 10px;
+}
+.tags {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
